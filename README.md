@@ -11,10 +11,7 @@ Bu proje, öğrenci kayıtlarını yönetmek için basit bir Java Swing uygulama
 ## Nasıl Çalıştırılır
 
 1. Projeyi bilgisayarınıza klonlayın veya ZIP olarak indirin.
-2. Klasörü açın ve terminal veya komut istemcisinde şu komutu çalıştırın:
-
-
-3. Uygulama başlatılacak ve Proje Menü Formu görünecektir.
+2. Uygulama başlatılacak ve Proje Menü Formu görünecektir.
 
 ## Kullanım
 
