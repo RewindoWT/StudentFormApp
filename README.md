@@ -1,5 +1,5 @@
 # StudentFormApp
-
+!!!Project Structuredan Modulese gelip libi yuklemeniz gerekiyor
 !!! Intellij Idea ile projeyi aciyorsaniz actiginizda open SDK yapmalisiniz ve Grovvy kutuphanesini modulunu eklemeniz lazim yoksa kodta hata gosterir.
 
  Öğrenci Kayıt Uygulaması niteliğinde Windows Form Uygulamasi
